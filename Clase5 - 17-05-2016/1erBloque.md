@@ -50,3 +50,6 @@ Referente: No necesariamente son del campo en cuestión, pero por la manera en q
 
 > caso: --> clasificativo - comparativo - métrico <--
 
+- Investigación para el diseño (investigación para diseñar algo..)
+- Investigación acerca del diseño (hisotira, semilogia, semiotica)
+- Investigación através del diseño..
