@@ -1,14 +1,16 @@
 size(500, 500);
 background(#0066cc);
 rect(width/2, height/2, 100, 100);
+fill(250,100,0);
 
 for(int j=1; j < height/2; j++){
    //translate(0, j);
-   ellipse(TWO_PI, TWO_PI + 100, 10, 10);
+   ellipse(TWO_PI + (j + 1), TWO_PI + 100, 10, 10);
    ellipse(j, j + 10, 10, 10);
   }
 
-/*void setup(){
+/*
+void setup(){
   size(500, 500); 
 }
  
