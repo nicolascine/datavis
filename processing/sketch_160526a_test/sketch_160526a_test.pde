@@ -14,14 +14,16 @@ int v = 5;
 void draw(){
   
   ellipse(x, y, t, t);
+  
   x  = x + v;
   y = y + 1;
 
   if( x >= 300 ){
     v = v * -1;
   }
-  if( x < 300 ){
+
+/*  if( x < 300 ){
     v = v + 1;
-  }
-  
+ }*/
+
 }
