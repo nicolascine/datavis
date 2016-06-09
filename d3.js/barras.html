@@ -170,15 +170,28 @@
         "promedio": 0.38
     }];
 
-    //Crear viz
 
-    //Crear Divs
+    //Escalas ---> 
+
+    //Gol Máximo
+    var golesMax = d3.max(data, function(d) {
+        return d.goles;
+    });
+
+    //Escala X
+    var x = d3.scale.linear()
+        .domain([0, golesMax])
+        .range([0, 980]);
+
+    //Crear Divs ---> 
+
     d3.select("#chart")
         .selectAll("div")
         .data(data)
         .enter().append("div")
         .style("width", function(d) {
-            return 30 * d.goles + "px";
+            //return 30 * d.goles + "px";
+            return x(d.goles) + "px";
         })
         .style("background-color", "#3498db")
         .style("border", "1px solid white")
@@ -188,8 +201,7 @@
         .text(function(d) {
             return d.goles + ' - ' + d.nombre + ' - ' + d.equipo;
         });
-
     </script>
-
 </body>
+
 </html>
