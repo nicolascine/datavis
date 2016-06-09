@@ -8,7 +8,13 @@
     <style>
     body {
         font-family: 'Ubuntu', sans-serif;
-        font-size: 13px;
+        font-size: 11px;
+        text-align: center;
+    }
+    #chart {
+    	margin: 0 auto;
+    	text-align: right;
+    	max-width: 600px;
     }
     </style>
 </head>
@@ -178,10 +184,11 @@
         return d.goles;
     });
 
+    var containerWidth = parseInt(d3.select("#chart").style("width"));
     //Escala X
     var x = d3.scale.linear()
         .domain([0, golesMax])
-        .range([0, 980]);
+        .range([0, containerWidth]);
 
     //Crear Divs ---> 
 
@@ -197,11 +204,11 @@
         .style("border", "1px solid white")
         .style("color", "white")
         .style("padding", "5px")
-        .style("margin", "5px 0px")
+        .style("margin", "2px 0px")
         .text(function(d) {
             return d.goles + ' - ' + d.nombre + ' - ' + d.equipo;
         });
     </script>
-</body>
 
+</body>
 </html>
