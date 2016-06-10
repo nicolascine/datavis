@@ -11,11 +11,20 @@
         font-size: 11px;
         text-align: center;
     }
+    
     #chart {
-    	margin: 0 auto;
-    	text-align: right;
-    	max-width: 600px;
+        margin: 0 auto;
+        text-align: right;
+        max-width: 1000px;
     }
+
+    .axis path, .axis line{
+        fill: none;
+        stroke: #000;
+        stroke-width: 1;
+        shape-rendering: crispEdges;
+    }
+
     </style>
 </head>
 
@@ -176,11 +185,12 @@
         "promedio": 0.38
     }];
 
+    var containerWidth = parseInt(d3.select("#chart").style("width"));
 
     // Tamaños
-    var margin = {top: 20, right: 20, bottom: 150, left: 40},
-        width = 960 - margin.left - margin.right,
-        height = 500 - margin.top - margin.bottom;
+    var margin = {top: 20,right: 20,bottom: 150,left: 40};
+    var width = containerWidth - margin.left - margin.right;
+    var height = 500 - margin.top - margin.bottom;
 
     // Crear SVG
     var svg = d3.select("#chart").append("svg")
@@ -190,8 +200,45 @@
         .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
 
+    //Gol Máximo
+    var golesMax = d3.max(data, function(d) {
+        return d.goles;
+    });
+
+    //Gol Máximo
+    var partidosMax = d3.max(data, function(d) {
+        return d.partidos;
+    });
+
+    //Escala X
+    var x = d3.scale.linear()
+        .domain([0, partidosMax])
+        .range([0, width]);
+
+    //Escala Y
+    var y = d3.scale.linear()
+        .domain([0, golesMax])
+        .range([height, 0]);
+
+    //Ejes
+    var xAxis = d3.svg.axis()
+        .scale(x)
+        .orient("bottom");
+
+    var yAxis = d3.svg.axis()
+        .scale(y)
+        .orient("left");
+
+    svg.append("g")
+        .attr("class", "x axis")
+        .attr("transform", "translate(0," + height + ")")
+        .call(xAxis)
+
+    svg.append("g")
+        .attr("class", "y axis")
+        .call(yAxis);
 
     </script>
-
 </body>
+
 </html>
