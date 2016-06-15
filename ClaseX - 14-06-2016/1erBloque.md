@@ -41,3 +41,12 @@ Estética =\= Anestesia
 
 Feltron Annual Report > Nicolas Feltron
 
+> CINEMETRICS
+
+> Tashio Iwai (youtube)
+> Last Clock (vimeo)
+
+>>> Reconctitucion
+SosoLimited > https://www.sosolimited.com/work/reconstitution-2008/
+
+>>> Everything, 1995 > Tom Friedman
