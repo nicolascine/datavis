@@ -50,3 +50,8 @@ Feltron Annual Report > Nicolas Feltron
 SosoLimited > https://www.sosolimited.com/work/reconstitution-2008/
 
 >>> Everything, 1995 > Tom Friedman
+
+>>> Poetry on the road, 2007-16 > Boris Müris > http://www.esono.com/boris/projects/
+
+>>> Untitled, 1990 > Tom Friedman
+
