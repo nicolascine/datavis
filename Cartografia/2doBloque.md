@@ -1,10 +1,19 @@
-| SISTEMAS DE COORDENADAS
-| (GEGRAPHICS COORDINATE SYSTEM - GCS)
+|============================================
+| SISTEMAS DE COORDENADAS					|
+| (GEGRAPHICS COORDINATE SYSTEM - GCS)		|
 |============================================
 
 - Sistema común para datos.
 
 > el tamaño de groenlandia es diferente en todos los mapas <
+> mts vs grados > diferencia proyección
 
 
-mts vs grados > diferencia proyección
+ANÁLISIS ESPACIAL
+======================
+
+Pregunta -> Datos -> Input...
+
+
+  MULTIPLES CRITERIOS
+======================
