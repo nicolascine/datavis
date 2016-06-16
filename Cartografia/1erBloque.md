@@ -77,6 +77,8 @@ FUENTES DE DATOS
 	http://www.observatoriourbano.cl/index.asp
 	http://geoportal.cl/geoportal/catalog/main/home.page
 	http://datos.cedeus.cl/
+	http://www.observatoriourbano.cl/index.asp
+<http://www.naturalearthdata.com/
 
 Incertidumbre de datos
 ==============================
