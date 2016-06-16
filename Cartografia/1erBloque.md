@@ -23,9 +23,42 @@ Primitivas geometricas > puntos, lineas, áreas
 	- Teselación completa del pesacio con celdas regulares.
 	- Tamaño de celdas define el detalle de (re)presentación.
 
-
 Toolboxes vs Tareas comunes en SIG
 	- Generar datos, digitalizar, importart, GPS
 	- Manipular datos, proyección geográfica, (re)clasificación, edición geométrica
 	- Análisi de datos, por ejemplo:
 		- combinar y calculat atributos (densidades)
+
+Formatos SIG más comunes:
+
+- Shapefile (*.shp)
+
+	Se divide en 3:
+		- Shp = Geometrías
+		- Ddf = Atributos
+		- Shx = más información sobre atributos
+
+- Google earth (*.kml, *.kmz)
+- Flexible: GML - estándar ISO, etc.
+- Nuevo para aplicaciones web: geojson
+- Casi cada SIG tiene su propio formato
+
+Tipos de archivos SIG - Vector
+
+
+Ejemplos de reglas topológicas (capas)
+	- Sólo un ageometría en un lugar (x,y)
+
+GeoTiff es el formato común para imágeness, elevaciones e información temática (suelos, vegetación)
+Basado en formato TIFF
+	- Permite compresión no destructiva (less-free)
+	- Permite también compresión jpeg
+- GeoTiff incluye información sobre el sistema de coordenadas
+- Posición de la imagen en el sistema de coordenadas definido por un archivo *.twf (tiff wordfile)ç
+- Hay también: jgw (jpg), pgw (png)
+- No hay atributos, pero se puede tener bandas múltiples
+
+Otro formato para imágenes: *.ecw (muy buena compresión pero es formato propietario)
+
+
+
