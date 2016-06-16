@@ -61,4 +61,14 @@ Basado en formato TIFF
 Otro formato para imágenes: *.ecw (muy buena compresión pero es formato propietario)
 
 
+Fuentes de datos
+=====================
+
+- Datos primarios por geolocalización
+
+CREATE NEW LAYER ...
+>>> USER SISTEMA DE REFERENCIA DE COORDENADAS: 32719 <<<<
+
+
+
 
