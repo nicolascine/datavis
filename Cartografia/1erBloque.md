@@ -70,5 +70,37 @@ CREATE NEW LAYER ...
 >>> USER SISTEMA DE REFERENCIA DE COORDENADAS: 32719 <<<<
 
 
+FUENTES DE DATOS
+========================================================
+	http://ide.ocuc.cl/
+	http://observatorio.cedeus.cl/
+	http://www.observatoriourbano.cl/index.asp
+	http://geoportal.cl/geoportal/catalog/main/home.page
+	http://datos.cedeus.cl/
+
+Incertidumbre de datos
+==============================
+...
+
+Estándares de metadata
+==============================
+- Múltiples estándares nacionales e internacionales
+- No solamente para datos espaciales
+- Estándares comunes y relevantes para datos territoriales
+
+
+ELEMENTOS ESCENCIALES DE UN MAPA
+
+- Titulo
+- Marcos
+- Leyenda
+- Escala numérica (texto) y grafica (barra)
+- Indicación de norte / flecha , norte
+- Autor / redacción y fecha
+- Si es para medir:
+	- sistema de coordenadas
+	- cuadríacula
+
+
 
 
