@@ -2,3 +2,16 @@ R+Estadística
 
 > color pallete --> viridis
 https://cran.r-project.org/web/packages/viridis/vignettes/intro-to-viridis.html
+
+
+> en Estadísticas -> serie de tiempo, intervalos temporales
+
+data("AirPassengers")
+AirPassengers
+
+Graficos Animados -> (?)
+"La animación obliga al usuario a comparar lo que ve, con lo que recuerda" > comparar lo que ya pasó, con lo que está ahora ~
+
+Heterocedasticidad ->
+En estadística se dice que un modelo de regresión lineal presenta heterocedasticidad cuando la varianza de las perturbaciones no es constante a lo largo de las observaciones.
+https://es.wikipedia.org/wiki/Heterocedasticidad
