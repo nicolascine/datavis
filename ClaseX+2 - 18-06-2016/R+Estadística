@@ -10,8 +10,43 @@ data("AirPassengers")
 AirPassengers
 
 Graficos Animados -> (?)
+-------------------------
 "La animación obliga al usuario a comparar lo que ve, con lo que recuerda" > comparar lo que ya pasó, con lo que está ahora ~
 
 Heterocedasticidad ->
+-------------------------
 En estadística se dice que un modelo de regresión lineal presenta heterocedasticidad cuando la varianza de las perturbaciones no es constante a lo largo de las observaciones.
 https://es.wikipedia.org/wiki/Heterocedasticidad
+
+Outlier > dato extremo
+-------------------------
+Se designa outlier a una observación que estadísticamente cae fuera del intervalo esperado (que puede ser por ejemplo la media más/menos tres sigma). 
+Por ejemplo, para medir la estatura promedio de los habitantes de cierta ciudad, se escoge una muestra y se los mide. Uno de los individuos mide cuatro metros y medio. Este individuo es un outlie, ya que está fuera del patrón de distribución. 
+>https://es.wikipedia.org/wiki/Valor_at%C3%ADpico
+
+http://bl.ocks.org/syntagmatic/raw/3150059/
+http://jkunst.com/r/visualizing-chess-data-with-ggplot/
+http://jkunst.com/d3-waffle/
+http://jkunst.com/highcharter/
+https://en.wikipedia.org/wiki/Bates_distribution
+https://es.wikipedia.org/wiki/Diagrama_de_caja
+http://bl.ocks.org/jensgrubert/7789216
+https://plot.ly/javascript/box-plots/
+
+
+PRINCIPIOS GRÁFICOS GRÁFICOS
+===================================
+https://optyestadistica.wordpress.com/2008/12/26/recomendaciones-de-edward-tufte-para-la-excelencia-en-graficos/
+https://optyestadistica.wordpress.com/2009/01/06/principios-de-edward-tufte-para-la-excelencia-en-graficos-3-de-3/
+https://optyestadistica.wordpress.com/2008/12/31/pricipios-de-edward-tufte-para-la-excelencia-en-graficos-2-de-2/
+
+Edward Tufte
+===================================
+https://www.amazon.com/Visual-Display-Quantitative-Information/dp/0961392142/ref=sr_1_1?ie=UTF8&qid=1466271832&sr=8-1&keywords=Edward+Tufte
+https://www.amazon.com/Envisioning-Information-Edward-R-Tufte/dp/0961392118/ref=sr_1_2?ie=UTF8&qid=1466271832&sr=8-2&keywords=Edward+Tufte
+https://www.amazon.com/Beautiful-Evidence-Edward-R-Tufte/dp/0961392177/ref=sr_1_3?ie=UTF8&qid=1466271832&sr=8-3&keywords=Edward+Tufte
+https://www.amazon.com/Visual-Explanations-Quantities-Evidence-Narrative/dp/0961392126/ref=sr_1_4?ie=UTF8&qid=1466271832&sr=8-4&keywords=Edward+Tufte
+
+
+
+
