@@ -3,7 +3,6 @@ R+Estadística
 > color pallete --> viridis
 https://cran.r-project.org/web/packages/viridis/vignettes/intro-to-viridis.html
 
-
 > en Estadísticas -> serie de tiempo, intervalos temporales
 
 data("AirPassengers")
@@ -34,19 +33,24 @@ http://bl.ocks.org/jensgrubert/7789216
 https://plot.ly/javascript/box-plots/
 
 
-PRINCIPIOS GRÁFICOS GRÁFICOS
-===================================
+PRINCIPIOS GRÁFICOS (de los) GRÁFICOS
+=======================================
 https://optyestadistica.wordpress.com/2008/12/26/recomendaciones-de-edward-tufte-para-la-excelencia-en-graficos/
 https://optyestadistica.wordpress.com/2009/01/06/principios-de-edward-tufte-para-la-excelencia-en-graficos-3-de-3/
 https://optyestadistica.wordpress.com/2008/12/31/pricipios-de-edward-tufte-para-la-excelencia-en-graficos-2-de-2/
 
 Edward Tufte
-===================================
+=======================================
+- Si hay mucha más tinta que datos en una visualización, es una Mala visualización
+- Muestren variaciones de los datos, no variaciones del diseño
+
 https://www.amazon.com/Visual-Display-Quantitative-Information/dp/0961392142/ref=sr_1_1?ie=UTF8&qid=1466271832&sr=8-1&keywords=Edward+Tufte
 https://www.amazon.com/Envisioning-Information-Edward-R-Tufte/dp/0961392118/ref=sr_1_2?ie=UTF8&qid=1466271832&sr=8-2&keywords=Edward+Tufte
 https://www.amazon.com/Beautiful-Evidence-Edward-R-Tufte/dp/0961392177/ref=sr_1_3?ie=UTF8&qid=1466271832&sr=8-3&keywords=Edward+Tufte
 https://www.amazon.com/Visual-Explanations-Quantities-Evidence-Narrative/dp/0961392126/ref=sr_1_4?ie=UTF8&qid=1466271832&sr=8-4&keywords=Edward+Tufte
 
-
-
-
+Qué es un trazado de coordenadas paralelas (?)
+------------------------------------------------
+https://docs.tibco.com/pub/spotfire_web_player/6.0.0-november-2013/es-ES/WebHelp/GUID-24AF55A4-E1E3-4F08-B62C-842738904252.html
+https://es.wikipedia.org/wiki/Coordenadas_polares
+http://www.infovis.net/printMag.php?num=201&lang=1
