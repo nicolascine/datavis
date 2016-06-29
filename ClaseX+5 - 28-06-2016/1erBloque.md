@@ -26,3 +26,36 @@ Visualización científica
 - Analogías
 - Computación Gráfica
 - Infografía
+
+
+--> ver -->
+------------------------------------
+- Micrographia, Robert Hooke
+- Edmond Halley, Líneas de viento
+- Marley, time series
+- Joseph Hutchins Colton, mapa de ríos por extensión
+- Charles Minard, napoleon 
+------------------------------------
+- Matemáticas experimentales: Conjunto de mandelbrot
+- Simulación de mecánica de fluidos
+- Diagrama secuencial principal de Hertzsprung-Russell (magnitud absoluta y temperatura de superficie de estrellas) (permite conocer en qué etapa está la estrella)
+- Líneas de fuerza de Michael Faraday
+- Onfas electromagnéticas
+- Líneas espectrales de Fraunhofer, Joseph von Fraunhofer
+- Hubble y la expansión del universo
+- Líneas espectrales del sodio
+- Orbitales espectrales 
+-------------------------------------
+
+- Protein Data Bank
+- Willem Einthoven, galvanómetro de cuerda y el electrocardiograma.
+- Hans Berger y el electroencefalograma
+- Polisomnografía
+
+> Análisis de Fourier
+
+> EDF > http://www.edfplus.info
+
+> mapas
+https://www.wdl.org/es/item/recent/2013/5/?page=24
+
