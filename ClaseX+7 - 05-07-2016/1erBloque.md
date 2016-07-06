@@ -4,7 +4,11 @@ Periodismo de Datos – Pablo Paladino - @palamago
 
 http://lapuertagiratoria.cl/
 
-
 Codificar 
 Manipular
 Reducir
+
+Periodismo de datos
+===========================
+
+@palamago
