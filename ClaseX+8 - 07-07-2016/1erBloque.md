@@ -20,7 +20,6 @@ LIBROS:
 
 http://smartcitizen.me
 
-
 PHYSICAL COMPUTING
 =============================
 
@@ -34,12 +33,10 @@ de información
 
 
 Entropía
-====================================
+-----------
 En termodinámica, la entropía (simbolizada como S) es una magnitud física que para un sistema termodinámico en equilibrio mide el número de microestados compatibles con el macroestado de equilibrio, también se puede decir que mide el grado de organización del sistema, o que es la razón incremental entre un increment
 
----------------------------------------------------------------
-Antidisciplina - Antidisciplina MIT
-
+> Antidisciplina - Antidisciplina MIT
 
 Sistema Autopoietico
 -------------------------
@@ -48,3 +45,6 @@ Sistemas Autopoiéticos (autopoieticSystems)
 
 Morfogénesis
 Parte de la geomorfología que estudia el origen y la evolución de la forma del relieve.
+
+--> LIBRO
+"Sistemas emergentes. O qué tienen en común hormigas, neuronas, ciudades y software" de Steven Johnson
