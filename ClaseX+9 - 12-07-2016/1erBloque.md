@@ -1,6 +1,12 @@
 Redes (Networks) 
 ----------------------
-Juan Pablo Cárdenas
+Juan Pablo Cárdenas <juanpablocvs@gmail.com>
+
+> Fractales
+> Caos (Sistemas extremadamente sensibles a las condiciones iniciales?)( Sensibilidad a cualquier perturbación )
+> Redes
+> Complejidad
+> Aleatoriedad
 
 Complejidad y Organización
 ================================
@@ -52,11 +58,20 @@ Random Networks / Redes Aleatorias
 - Red Pseudo Regular
 - Red de mundo pequeño: https://es.wikipedia.org/wiki/Red_de_mundo_peque%C3%B1o
 
+Las redes reales, pueden ser modeladas en redes de mundo pequeño + una mezcla de aleatoriedad y ---
+
+> Fred Cohen
+
+Complejidad Económica 
+====================================
 
 
 
+The Open Graph Viz Platform
+====================================
+https://gephi.org/
 
-
+Gephi is the leading visualization and exploration software for all kinds of graphs and networks. Gephi is open-source and free
 
 
 
