@@ -34,3 +34,14 @@ http://www.ted.com/talks/hans_rosling_shows_the_best_stats_you_ve_ever_seen?lang
 + Spotlight Australia
 + http://spotlight.abs.gov.au/
 + https://www.youtube.com/watch?v=flRuSn0df8Q ( Donald norman )
++ Libro: Living with Complexity ( Donald A. Normal )
+
++ Libro: Visual Language - ( Robert E. Horn ) ( opinion: planteamiento político del diseño de información - visualizacion )
+
+
+http://www.thefunctionalart.com/
+http://albertocairo.com/
+
+http://www.nationalgeographic.com.es/mundo-ng/un-bilbaino-en-national-geographic-2_7984
+http://www.domestika.org/es/fernando-g-baptista
+http://www.visualcinnamon.com/
